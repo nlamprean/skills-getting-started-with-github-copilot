@@ -74,6 +74,42 @@ activities = {
         "schedule": "Fridays, 3:30 PM - 4:30 PM",
         "max_participants": 18,
         "participants": []
+    },
+    "Volleyball Team": {
+        "description": "Practice volleyball skills and compete in team games",
+        "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": []
+    },
+    "Track and Field": {
+        "description": "Train for running, jumping, and throwing events",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 24,
+        "participants": []
+    },
+    "Photography Club": {
+        "description": "Learn photography techniques and create photo projects",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Creative Writing Club": {
+        "description": "Write stories and poems and share creative work",
+        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Math Club": {
+        "description": "Solve challenging problems and explore mathematical ideas",
+        "schedule": "Mondays, 3:30 PM - 4:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "History Club": {
+        "description": "Explore historical events through discussions and projects",
+        "schedule": "Thursdays, 3:30 PM - 4:30 PM",
+        "max_participants": 18,
+        "participants": []
     }
 }
 
